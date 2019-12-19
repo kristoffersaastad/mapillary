@@ -1,3 +1,4 @@
 distance formula: https://www.movable-type.co.uk/scripts/latlong.html
 norges fartsgrenser: https://lovdata.no/dokument/NL/lov/1965-06-18-4#KAPITTEL_2
 avg_speed_car: https://www.racfoundation.org/motoring-faqs/mobility#a41
+1x1conv: https://iamaaditya.github.io/2016/03/one-by-one-convolution/
