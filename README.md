@@ -1,6 +1,6 @@
 Spezialization project NTNU
 
-Generated the data to train a model an classify the type of road trajectory based on coordinates and timestamps.
+Generated the data from coordinates and timestamps, trained a model, classified the type of road trajectory.
 
 Create config file and paste your client id:
 {
