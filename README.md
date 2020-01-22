@@ -1,5 +1,7 @@
-Masters thesis NTNU
+Spezialization project NTNU
 
+
+Create config file:
 {
      "client_id":"CLIENT_ID",
      "test_image":"wE7F3pHfYnZj6oG702vpnA",
